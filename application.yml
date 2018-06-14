@@ -1,4 +1,4 @@
 eureka:
   client:
     serviceUrl:
-      defaultZone: http://eureka-server-lab-dekra-lab-dekra.e4ff.pro-eu-west-1.openshiftapps.com/eureka/
+      defaultZone: http://eureka-server-lab-dekra-lab-dekra.e4ff.pro-eu-west-1.openshiftapps.com/eureka/,http://eureka-replica-lab-dekra-lab-dekra.e4ff.pro-eu-west-1.openshiftapps.com/eureka/
